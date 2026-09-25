@@ -1,4 +1,4 @@
-# MLST_pipeline.py
+# MLST Analysis
 
 Assigns *Staphylococcus epidermidis* MLST sequence types (STs) to assembled
 genomes by submitting each assembly to the [PubMLST REST API](https://rest.pubmlst.org)
@@ -243,7 +243,7 @@ that genome.
   with the snapshot on shared storage.
 
 
-## Developers
+## Contacts:
 
-[Allison Weakley]()
+[Allison Weakley](),
 [Xiandong Meng]()
